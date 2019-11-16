@@ -1,0 +1,318 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: gray;
+  margin: 0 0 0 0;
+
+}
+.bodyClass{
+  padding: 0 0 0 0;
+}
+.bodyClass .title{
+ text-align: center;
+ color: aquamarine;
+ padding-top: 13px;
+}
+.title h2{
+  color: white;
+  font-size: 30px;
+  margin: 0px;
+}
+.title p{
+  font-size: 23px;
+  text-align: -webkit-center;
+  margin-left: 10px;
+  margin: 0px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.title h3{
+    color: inherit;
+    font-size: 25px;
+    color: springgreen;
+}
+.title ol{
+  color: #FFEB3B;
+  font-size: 24px;
+}
+.educationdetails{
+  text-align: center;
+  background: #dad65f;
+  margin-left: 36%;
+  margin-right:36%;
+}
+.educationdetails h2{
+  background: red;
+}
+.kantipurengineering table tr{
+  background: yellow;
+  text-align: center;
+  font-size: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+  height: 15%;
+}
+.kantipurengineering table th{
+  width: 15%;
+  height: 10%;
+}
+.kantipurengineering{
+  margin-bottom: 40px;
+}
+
+.menu{
+  width: 100%;
+  height: 45px;
+}
+.menu ul{
+  width: 100%;
+  background: white;
+  list-style-type: none;
+  float: left;
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+.menu ul li{
+  float: left;
+  margin-left: 2%;
+  margin-right: 2%;
+}
+.menu ul li a{
+  font-size: 30px;;
+  text-decoration: none;
+}
+.menu ul li a:hover{
+  background: skyblue;
+}
+.bodyClass .secondimage{
+  width: 100%;
+  height: auto;
+}
+.bodyClass .educationimage{
+  width: 100%;
+}
+.bodyClass .educationimage img{
+  width: 100%;
+  height: 400px;
+}
+
+.reference a{
+  font-size: 15px;
+  color: white;
+}
+.bodyClass .homeimage{
+  width: 100%;
+  height: auto;
+}
+.homeimage img{
+  width: 100%;
+  height: 450px;
+}
+.secondimage img{
+  width: 100%;
+  height: 450px;
+}
+.shortintro{
+  margin-left: 10px;
+}
+.shortintro p.borderstyle {
+margin-top: 10px;
+text-decoration-color: red;
+font-size: 20px;
+background-color: azure;
+border-radius: 142px;
+width: 250px;
+padding-left: 59px;
+padding-right: 62px;
+padding-top: 20px;
+padding-bottom: 35px;
+text-align: center;
+margin-left: 411px;
+}
+.bodyClass .title h2{
+  background-color: red;
+
+}
+
+.experience{
+  background: gray;
+  font-size: 20px;
+  border: 3px solid honeydew;
+}
+.experience p{
+  margin-left: 2%;
+  text-align: justify;
+  margin-right: 2%;
+}
+.experience1{
+  background-color: #00bcd4;
+  float:right;
+  height: 532px;
+  width: 50%;
+}
+.experience2 {
+    float: left;
+    height: 532px;
+    width: 50%;
+}
+.experience1 b{
+  padding-right: 1px;
+  width: 45%;
+}
+.experience .photo12{
+  width: 45%;
+  float: left;
+  margin-top: 20px;
+}
+.experience .photo13{
+  width: 45%;
+  float: left;
+  margin-left: 7%;
+  margin-top: 20px;
+}
+.experience1 .photo12 img{
+  width: 104%;
+  height: 199px;
+  margin-left: 10px;
+  border-radius: 42px;
+}
+.experience1 .photoname{
+    width: 69%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.experience1 .photo13 img{
+  width: 106%;
+  height: 195px;
+  margin-left: -13px;
+  border-radius: 42px;
+}
+.contactcontainer{
+  width: 100%;
+  height: 390px;
+}
+.contactcontainer1{
+  width: 100%;
+  height: auto;
+}
+.contactphoto{
+  width: 30%;
+  height: 350px;
+  float: left;
+  margin-left: 10%;
+  margin-top: 20px;
+}
+.contactcontainer1{
+  width: 50%;
+  height: 355px;
+  background: gray;
+  float: left;
+  border-radius: 40px;
+  margin-left: 10%;
+}
+.contactcontainer1 .message{
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.contactcontainer1 .message .label{
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.contactcontainer1 .message input[type="text"],input[type="number"]{
+  width: 50%;
+  height: 24px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  border: 4px solid chocolate;
+}
+.contactcontainer1 .message input[type="submit"] {
+    border: 4px solid red;
+    font-size: 20px;
+    height: 33px;
+    width: 97px;
+}
+.contactphoto .photo1 img{
+  border: 5px solid black;
+  border-radius: 40px;
+  height: 350px;
+  width: 100%;
+}
+.bio{
+  padding-left: 378px;
+  margin-right: 216px;
+  margin-left: 84px;
+  background: bisque;
+  padding-top: 19px;
+  font-size: 20px;
+  padding-bottom: 19px;
+}
+.bio h1 {
+    text-align: center;
+    margin-right: 56px;
+    background: indianred;
+    margin-left: -319px;
+    margin-bottom: 12px;
+}
+.bio ol li a {
+    font-size: 23px;
+    padding: unset;
+    margin-bottom: 32px;
+}
+.footer1{
+  height: 50px;
+  width: 100%;
+  background: #b0b0ff;
+  font-size: 25px;
+  padding-top: 10px;
+  margin-top: 19px;
+  float: left;
+}
+.footer1 p{
+  margin-left: 35%;
+}
+.footer0{
+  height: 30px;
+  width: 100%;
+  margin-top: 24px;
+  background-color: white;
+  padding-top: 3px;
+  text-align: center;
+  font-size: 20px;
+  float: left;
+
+}
+.gal1 .gal2{
+  height: auto;
+  width: 100%;
+  background: purple;
+}
+.gal1 .gal2 img{
+
+      margin-right: 10px;
+      margin-left: 2px;
+      height: 244px;
+      width: 24%;
+      float: left;
+      border-radius: 73px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+}
+.gal1 .gal3{
+  height: auto;
+  width: 100%;
+  background: purple;
+}
+.gal1 .gal3 img{
+
+    margin-right: 10px;
+    margin-left: 2px;
+    height: 244px;
+    width: 24%;
+    float: left;
+    border-radius: 73px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
