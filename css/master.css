@@ -192,6 +192,7 @@ margin-left: 411px;
 .contactcontainer{
   width: 100%;
   height: 390px;
+  margin-bottom: 80px;
 }
 .contactcontainer1{
   width: 100%;
@@ -213,8 +214,11 @@ margin-left: 411px;
   margin-left: 10%;
 }
 .contactcontainer1 .message{
-  margin-top: 40px;
-  margin-left: 20px;
+  margin-top: 9px;
+  margin-left: 2px;
+}
+.contactcontainer1 textarea.message {
+    border: 4px solid orangered;
 }
 .contactcontainer1 .message .label{
   font-size: 20px;
@@ -233,6 +237,7 @@ margin-left: 411px;
     font-size: 20px;
     height: 33px;
     width: 97px;
+    margin-top: 5px;
 }
 .contactphoto .photo1 img{
   border: 5px solid black;
